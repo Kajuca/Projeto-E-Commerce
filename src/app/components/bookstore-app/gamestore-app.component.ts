@@ -2,8 +2,8 @@ import { Component, OnInit } from '@angular/core';
 
 @Component({
   selector: 'app-bookstore-app',
-  templateUrl: './bookstore-app.component.html',
-  styleUrls: ['./bookstore-app.component.css']
+  templateUrl: './gamestore-app.component.html',
+  styleUrls: ['./gamestore-app.component.css']
 })
 export class BookstoreAppComponent implements OnInit {
 

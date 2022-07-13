@@ -1,8 +1,7 @@
-export class Book{
+export class Game{
     id!: number;
     name!: string;
     price!: number;
-    quantity!: number;
-    category!: string;
+    category!:string;
     img!: string;
 }
